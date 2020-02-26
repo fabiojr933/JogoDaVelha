@@ -94,8 +94,17 @@ namespace JogoDaVelha
                 Ganhar();
                 return true;
             }
-            label1.Text = "Jogador Atual = " + jogador_atual;
+            if (button1.Text.Length != 0 && button2.Text.Length != 0 && button3.Text.Length != 0 && button4.Text.Length != 0 &&
+                button5.Text.Length != 0 && button6.Text.Length != 0 && button7.Text.Length != 0 && button8.Text.Length != 0 &&
+                button7.Text.Length != 0)
+            {
+                MessageBox.Show("Deu Velha :(");
+                Zerar();
+                return true;
+            }
+
             jogador_atual = InverterJogador();
+            label1.Text = "Jogador Atual = " + jogador_atual;
             return false;
         }
 
