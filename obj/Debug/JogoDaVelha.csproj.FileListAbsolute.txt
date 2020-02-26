@@ -1,0 +1,9 @@
+C:\Users\FABIO\source\repos\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\FABIO\source\repos\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\FABIO\source\repos\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\FABIO\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojAssemblyReference.cache
+C:\Users\FABIO\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.JogoDaVelha.resources
+C:\Users\FABIO\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Users\FABIO\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+C:\Users\FABIO\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\FABIO\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
